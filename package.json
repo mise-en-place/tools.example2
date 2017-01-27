@@ -5,7 +5,7 @@
   "main": "stylesheets/_tools.example.scss",
   "eyeglass": {
     "needs": "^1.0.0",
-    "name": "mep-tools-example",
+    "name": "tools-example",
     "exports": "eyeglass-exports.js"
   },
   "keywords": [
