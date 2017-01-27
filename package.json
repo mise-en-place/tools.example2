@@ -5,7 +5,6 @@
   "main": "stylesheets/_example2.scss",
   "eyeglass": {
     "needs": "^1.0.0",
-    "name": "example2",
     "exports": "eyeglass-exports.js"
   },
   "keywords": [
