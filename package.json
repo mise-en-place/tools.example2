@@ -5,6 +5,7 @@
   "main": "stylesheets/_mep-tools.example2.scss",
   "eyeglass": {
     "needs": "^1.0.0",
+    "name": "this-wont-work",
     "exports": "eyeglass-exports.js"
   },
   "keywords": [
