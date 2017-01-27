@@ -1,0 +1,21 @@
+{
+  "name": "mep-tools-example",
+  "version": "1.0.0",
+  "description": "Example Of A Tool",
+  "main": "stylesheets/_tools.example.scss",
+  "eyeglass": {
+    "needs": "^1.0.0",
+    "exports": "eyeglass-exports.js"
+  },
+  "keywords": [
+    "eyeglass-module",
+    "sass",
+    "mise-en-place"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mise-en-place/tools.example2.git"
+  },
+  "author": "Kind",
+  "license": "MIT"
+}
