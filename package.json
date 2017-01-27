@@ -2,7 +2,7 @@
   "name": "mep-tools.example2",
   "version": "1.0.0",
   "description": "Example Tool 2",
-  "main": "stylesheets/_example2.scss",
+  "main": "stylesheets/_mep-tools.example2.scss",
   "eyeglass": {
     "needs": "^1.0.0",
     "exports": "eyeglass-exports.js"
