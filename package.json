@@ -1,15 +1,9 @@
 {
   "name": "mep-tools.example2",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Example Tool 2",
   "main": "stylesheets/_this-wont-work.scss",
-  "eyeglass": {
-    "needs": "^1.0.0",
-    "name": "this-wont-work",
-    "exports": "eyeglass-exports.js"
-  },
   "keywords": [
-    "eyeglass-module",
     "sass",
     "mise-en-place"
   ],
